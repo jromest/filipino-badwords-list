@@ -12,13 +12,13 @@ This data has been exposed as an object that contains
 
 depending on what is required for your purposes.
 
-# Install
+## Install
 
 ```
-npm install filino-badwords-list
+npm i filino-badwords-list
 ```
 
-# Usage
+## Usage
 
 ```js
 const list = require("filipino-badwords-list"),
@@ -27,7 +27,7 @@ const list = require("filipino-badwords-list"),
   regex = list.regex;
 ```
 
-# Testing
+## Testing
 
 #### Requires
 
@@ -36,3 +36,13 @@ const list = require("filipino-badwords-list"),
 ```
 npm test
 ```
+
+## Contributing
+
+If you know filipino bad word(s), please contribute to grow our list of filipino bad words and make the web a better place.
+
+[Please follow these steps to contribute](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md)
+
+## License
+
+MIT
