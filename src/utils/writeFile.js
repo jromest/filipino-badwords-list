@@ -1,9 +1,5 @@
 const fs = require("fs");
-const badwords = require("../filipino-badwords-list");
-
-let list = badwords.sort().map(badword => {
-  return badword.toLowerCase();
-});
+const list = require("../filipino-badwords-list");
 
 function fileTemplate(content) {
   return `module.exports = ${content};`;
