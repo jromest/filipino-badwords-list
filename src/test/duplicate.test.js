@@ -1,4 +1,4 @@
-const list = require("../lib/index");
+const list = require("../filipino-badwords-list");
 
 function hasDuplicates(array) {
   var valuesSoFar = Object.create(null);
@@ -13,5 +13,5 @@ function hasDuplicates(array) {
 }
 
 test("No duplicates", () => {
-  expect(hasDuplicates(list.array)).toBe(false);
+  expect(hasDuplicates(list)).toBe(false);
 });

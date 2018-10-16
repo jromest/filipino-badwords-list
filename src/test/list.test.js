@@ -1,4 +1,4 @@
-const list = require("../lib/index");
+const list = require("../../lib/index");
 
 describe("Should contain correct property", () => {
   it("Should contain property array", () => {

@@ -1,5 +1,5 @@
 const fs = require("fs");
-const badwords = require("../lib/array");
+const badwords = require("../filipino-badwords-list");
 
 let list = badwords.sort().map(badword => {
   return badword.toLowerCase();
