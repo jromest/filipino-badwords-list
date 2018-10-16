@@ -4,7 +4,7 @@
   "description": "A highly consumable list of bad (profanity) filipino words",
   "main": "./lib/index.js",
   "scripts": {
-    "write": "jest --verbose duplicate.test.js && node utils/writeFile",
+    "write": "jest --verbose duplicate.test.js && node src/utils/writeFile",
     "test": "jest --verbose -b"
   },
   "repository": {
