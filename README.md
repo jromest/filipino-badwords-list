@@ -15,7 +15,7 @@ depending on what is required for your purposes.
 ## Install
 
 ```
-npm i filino-badwords-list
+npm i filipino-badwords-list
 ```
 
 ## Usage
