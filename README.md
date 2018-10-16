@@ -2,9 +2,9 @@
 
 A highly consumable list of bad (profanity) filipino words.
 
-Inspired by [badwords-list](https://github.com/web-mech/badwords-list)
+Inspired by [badwords-list](https://github.com/web-mech/badwords-list).
 
-This data has been exposed as an object that contains
+This data has been exposed as an object that contains:
 
 - an array
 - an object
@@ -21,10 +21,31 @@ npm i filino-badwords-list
 ## Usage
 
 ```js
-const list = require("filipino-badwords-list"),
-  array = list.array,
-  object = list.object,
-  regex = list.regex;
+const filipinoBadwords = require("filipino-badwords-list"),
+  array = filipinoBadwords.array,
+  object = filipinoBadwords.object,
+  regex = filipinoBadwords.regex;
+```
+
+### Usage with `bad-words`
+
+You can use [bad-words](https://www.npmjs.com/package/bad-words) a javascript filter for badwords to filter filipino and english bad words.
+
+#### Installation
+
+```
+npm i bad-words
+```
+
+#### Usage
+
+```js
+const Filter = require("bad-words");
+const filipinoBadwords = require("filipino-badwords-list");
+
+const filter = new Filter({ list: filipinoBadwords.array });
+
+console.log(filter.clean("tangina, wag kang bobo")); // *******, wag kang ****
 ```
 
 ## Testing

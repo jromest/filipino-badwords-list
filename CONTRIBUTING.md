@@ -1,14 +1,15 @@
 # Contributing Guidelines
 
 Hello!
+
 Let's make the web a better place. Happy Contributing!!!
 
 ## Here are some ways you can help
 
-1. If you know filipino bad word(s) and it is not on the list, you can add them _no coding required_ just follow this [instructions](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md#how-to-add-bad-words-to-the-list).
-2. Found a typo or grammar error in the documentation or you can improve the documentation
+1. If you know filipino bad word(s) and it is not on the list, you can add them _no coding required_ just follow this [instructions](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md#how-to-add-bad-words-to-the-list)
+2. Found a typo or grammar error in the documentation? Feel free correct them
 3. Found a bug or just asking a question? Feel free to create an [issue](https://github.com/jromest/filipino-badwords-list/issues)
-4. Or you can improve the codes under the `utils` and `test` directory.
+4. Or you can contribute anything to improve this project
 
 ## Requirements
 
@@ -30,7 +31,8 @@ Please make sure you have this installed on your machine:
 
 Be sure to read and follow the [Requirements](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md#requirements) above.
 
-- Append your bad word enclosed in double quotes in the `array.js` file under the `lib` directory. Make sure to add a comma before it. If multiple words, separate them with commas.
-- Run `npm run write` - it will test if your bad words hasn't been added, if so, it will sort the array alphabetically and add the new bad words in the `object.js` and `regex.js` for you.
+- Append your bad word enclosed in double quotes in the `filipino-badwords-list.js` file under the `src` directory. Make sure to add a comma before it. If multiple words, separate them with commas.
+- Run `npm run sort`
+  -it will check if your bad words hasn't been added, if so, it will sort the array alphabetically for you.
 - Run the test `npm test`
 - Create your [pull request](https://github.com/jromest/filipino-badwords-list/pulls) and wait to be merge.

@@ -19,7 +19,9 @@
     "list",
     "profanity",
     "blacklist",
-    "swear"
+    "swear",
+    "filipino",
+    "tagalog"
   ],
   "author": "Jerome Estiller <jromestiller@gmail.com>",
   "license": "MIT",
