@@ -10,6 +10,7 @@ module.exports = [
 "burat",
 "bwesit",
 "bwisit",
+"demonyo ka",
 "engot",
 "etits",
 "gaga",
@@ -22,6 +23,7 @@ module.exports = [
 "hinayupak",
 "hindutan",
 "hudas",
+"iniyot",
 "inutel",
 "inutil",
 "iyot",
@@ -71,6 +73,7 @@ module.exports = [
 "shunga",
 "sira ulo",
 "siraulo",
+"suso",
 "susu",
 "tae",
 "taena",
@@ -83,6 +86,7 @@ module.exports = [
 "tinil",
 "tite",
 "titi",
+"tungaw",
 "ulol",
 "ungas"
 ];
