@@ -20,6 +20,7 @@ module.exports = [
 "hinampak",
 "hinayupak",
 "hudas",
+"iniyot",
 "inutel",
 "inutil",
 "iyot",
@@ -81,6 +82,7 @@ module.exports = [
 "tinil",
 "tite",
 "titi",
+"tungaw",
 "ulol",
 "ungas"
 ];
