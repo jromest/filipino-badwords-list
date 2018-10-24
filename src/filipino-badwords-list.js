@@ -57,6 +57,7 @@ module.exports = [
 "puchangina",
 "puke",
 "puki",
+"pukinangina",
 "puking",
 "punyeta",
 "puta",
