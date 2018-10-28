@@ -24,7 +24,7 @@ Please make sure you have this installed on your machine:
 2. Clone your forked repo `git clone https://github.com/<your-github-username-here>/filipino-badwords-list.git`
 3. Run `npm install` in your terminal
 4. Create a branch `git checkout -b <name-of-your-branch>`
-5. Open your favorate text editor and add or make your edits
+5. Open your favorite text editor and add or make your edits
 6. If all things good or if you are just [adding bad words](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md#how-to-add-bad-words-to-the-list) that's not on the list, you can commit your changes and push it to your forked repo and create a [pull request](https://github.com/jromest/filipino-badwords-list/pulls)
 
 ### How to add bad words to the list
