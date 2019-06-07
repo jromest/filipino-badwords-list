@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/jromest/filipino-badwords-list#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^24.8.0"
   }
 }
