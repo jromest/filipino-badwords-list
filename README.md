@@ -1,6 +1,6 @@
 # filipino-badwords-list
 
-A highly consumable list of bad (profanity) filipino words.
+A highly consumable list of bad (profanity) Filipino words.
 
 Inspired by [badwords-list](https://github.com/web-mech/badwords-list).
 
@@ -29,7 +29,7 @@ const filipinoBadwords = require("filipino-badwords-list"),
 
 ### Usage with `bad-words`
 
-You can use [bad-words](https://www.npmjs.com/package/bad-words) a javascript filter for badwords to filter filipino and english bad words.
+You can use [bad-words](https://www.npmjs.com/package/bad-words) a JavaScript filter for badwords to filter Filipino and English bad words.
 
 #### Installation
 
@@ -60,7 +60,7 @@ npm test
 
 ## Contributing
 
-If you know filipino bad word(s), please contribute to grow our list of filipino bad words and make the web a better place.
+If you know any Filipino bad word(s), please contribute to grow our list of Filipino bad words and make the web a better place.
 
 [Please follow these steps to contribute](https://github.com/jromest/filipino-badwords-list/blob/master/CONTRIBUTING.md)
 
