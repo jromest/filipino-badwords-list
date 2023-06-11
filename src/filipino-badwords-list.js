@@ -1,4 +1,5 @@
 module.exports = [
+"ampota",
 "amputa",
 "animal ka",
 "bilat",
@@ -16,6 +17,8 @@ module.exports = [
 "gaga",
 "gagi",
 "gago",
+"gagu",
+"gunggong",
 "habal",
 "hayop ka",
 "hayup",
@@ -64,8 +67,10 @@ module.exports = [
 "puki",
 "pukinangina",
 "puking",
+"punyemas",
 "punyeta",
 "puta",
+"putaena",
 "putang",
 "putang ina",
 "putangina",
@@ -74,6 +79,8 @@ module.exports = [
 "putragis",
 "puyet",
 "ratbu",
+"shet",
+"shiyet",
 "shunga",
 "sira ulo",
 "siraulo",
@@ -82,6 +89,7 @@ module.exports = [
 "tae",
 "taena",
 "tamod",
+"tamud",
 "tanga",
 "tangina",
 "taragis",
@@ -95,5 +103,7 @@ module.exports = [
 "tungaw",
 "ulol",
 "ulul",
-"ungas"
+"ungas",
+"vovo",
+"yawa"
 ];
